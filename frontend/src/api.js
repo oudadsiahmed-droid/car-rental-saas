@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const API = axios.create({
-  baseURL: 'http://localhost:5000/api'
+  baseURL: 'http://76.13.42.80/api'
 })
 
 // زيد token لكل request
